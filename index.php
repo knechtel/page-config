@@ -196,7 +196,10 @@
         <img src="debian.png" height="90" width="90" alt="Ubuntu Logo" class="floating_element"/>
         
  <p class style="font-size:20px">         Apache2, JAVA, Debian by Eletrônica Delta.</p>
-        
+ <p style="font-size:15px">Sistema de gestão de ordem de serviço.</br>
+Telefone: (51)-98311-2082
+Endereço:Rua Fernandes Bastos, 1978
+</p>
       </div>
 <!--      <div class="table_of_contents floating_element">
         <div class="section_header section_header_grey">
@@ -224,13 +227,16 @@
 
                 loja:    <a href="http://10.0.0.111/loja">aqui!</a>
         </div>
-
+        <div style="width: 50%; height: 100px; float: left; background: white;"> 
+        <img src="mysql.png" width="300" height="220" />
+       
+        </div>
         <div class="content_section_text">
      
 
          <center>
           <p>
-            <span style="font-size:30px"  class="floating_element">      Pagina de configuração.</br> 
+            <span style="font-size:30px"  class="floating_element">Pagina de configuração.</br> 
             </span>
 		
              
@@ -238,17 +244,17 @@
                       
           </p>
 
-</center>
+        </center>
 </div>
-<P ALIGN=LEFT></P>
-
-
-<p> <a href="http://10.0.0.111/loja">Go to controle de OS!</a></p>
 <p style="font-size:15px">Sistema de gestão de ordem de serviço.</br>
 Eletrônica Delta tem foco no ramo de atividade de Assistência Técnica localiza-se no endereço Avenida Fernandes Bastos 1978 no bairro Ponte Camarão na cidade de Tramandaí que é um município do estado de Rio Grande do Sul.
 
 Para enviar correspondências ou encomendas para Eletrônica Delta o Cep é 95590-000.
 </p>
+
+
+<p> <a href="http://10.0.0.111/loja">Go to controle de OS!</a></p>
+
          <!-- <p>
                 If you are a normal user of this web site and don't know what this page is
                 about, this probably means that the site is currently unavailable due to
